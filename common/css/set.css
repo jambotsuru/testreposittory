@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Reset */
+@import "reset.css";
+
+/* Reset-font */
+@import "reset-fonts.css";
+
+/* 共通のCSS */
+@import "common.css";
+
+/* テキストなど */
+@import "text.css";
+

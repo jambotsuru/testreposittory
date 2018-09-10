@@ -1,0 +1,59 @@
+html {
+  background-color: transparent;
+  background-image: none;
+}
+
+img {
+	border-style:none;
+	vertical-align: top;
+}
+
+body {
+	background-color: #FFF;
+	margin:0;
+	padding:0;
+}
+
+
+header {
+	height: 220px;
+	background: #ccc;
+	min-width: 750px;
+}
+
+
+
+#main {
+	width: 750px;
+	margin: 0 auto;
+	height: 600px;
+	border-left: solid 1px #ccc;
+	border-right: solid 1px #ccc;
+}
+
+
+
+footer {
+	height: 100px;
+	background: #ccc;
+	min-width: 750px;
+}
+
+
+
+/* 位置フリーbox */
+.left_contents_inbox_401k {
+	margin:0px 0px 60px 0px;
+	position:relative;
+	line-height: 160%;
+	background-color:#FFFDE5;
+	padding:10px;
+}
+
+
+
+.left_contentsbox_freeimg01 {
+	position:absolute;
+	left: 378px;
+	top: -14px;
+}
